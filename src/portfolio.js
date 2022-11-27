@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Madarchod",
+  title: "Tushar Sharma",
   logo_name: "Tushar Sharma",
   nickname: "tushar_mahalya",
   subTitle:

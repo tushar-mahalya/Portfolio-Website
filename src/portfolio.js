@@ -528,11 +528,7 @@ const experience = {
           logo_path: "qualdigiin_logo.png",
           duration: "Jun 2022 - Nov 2022",
           location: "Kanpur, Uttar Pradesh",
-          description:
-            "QualDigiIn is a software solutions company. As a intern, I have following responsibilities :
-(1) Acquiring data saved across different administrative databases.
-(2) Cleaning and analysing data to gain important insights/facts for further integration.
-(3) Creating reports and dashboards using Microsoft Excel.",
+          description: "QualDigiIn is a software solutions company. As a intern, I have following responsibilities :(1) Acquiring data saved across different administrative databases.(2) Cleaning and analysing data to gain important insights/facts for further integration.(3) Creating reports and dashboards using Microsoft Excel.",
           color: "#ee3c26",
         },
         {
@@ -705,7 +701,5 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
-  publications,
   contactPageData,
 };

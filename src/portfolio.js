@@ -522,14 +522,17 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          title: "Data Analyst Intern",
+          company: "QualDigiIn Technologies Pvt. Ltd.",
+          company_url: "https://qualdigiin.com/",
+          logo_path: "qualdigiin_logo.png",
+          duration: "Jun 2022 - Nov 2022",
+          location: "Kanpur, Uttar Pradesh",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "QualDigiIn is a software solutions company. As a intern, I have following responsibilities :
+(1) Acquiring data saved across different administrative databases.
+(2) Cleaning and analysing data to gain important insights/facts for further integration.
+(3) Creating reports and dashboards using Microsoft Excel.",
           color: "#ee3c26",
         },
         {
@@ -625,7 +628,7 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publications = {
+/*const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
@@ -668,7 +671,7 @@ const publications = {
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
     },
   ],
-};
+};*/
 
 // Contact Page
 const contactPageData = {
@@ -677,13 +680,6 @@ const contactPageData = {
     profile_image_path: "animated_ashutosh.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
-  },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
-    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",

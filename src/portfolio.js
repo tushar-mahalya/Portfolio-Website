@@ -122,17 +122,11 @@ const skills = {
           },
         },
         {
-
           skillName: "GCP",
-
           fontAwesomeClassname: "simple-icons:googlecloud",
-
           style: {
-
             color: "#4285F4",
-
           },
-
         },
       ],
     },

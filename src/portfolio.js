@@ -141,9 +141,9 @@ const skills = {
       softwareSkills: [
         {
           skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          fontAwesomeClassname: "arcticons:tradingview",
           style: {
-            color: "#E34F26",
+            color: "#000000",
           },
         },
         {
@@ -549,21 +549,21 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          title: "Fundraising Campaign Manager",
+          company: "Muskurahat Foundation",
+          company_url: "https://muskurahat.org.in/",
+          logo_path: "muskurahat.png",
           duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          location: "Work from Home",
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
         },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
+          title: "Administrative Professional",
+          company: "Apostrophe Oratory Club | IIT-M",
+          company_url: "https://instagram.com/oratoryclub_apostrophe?igshid=MDM4ZDc5MmU=",
+          logo_path: "apostrophe.jpg",
           duration: "Aug 2019 - May 2020",
           location: "Hyderabad, Telangana",
           description:
@@ -571,10 +571,10 @@ const experience = {
           color: "#D83B01",
         },
         {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
+          title: "Scribe",
+          company: "Volunteer for a Cause (VFC)",
+          company_url: "https://www.vfcindia.in/penpals",
+          logo_path: "vfc.png",
           duration: "Oct 2019 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
@@ -582,11 +582,10 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
+          title: "Club Volunteer",
+          company: "Corbett House | IIT-M",
+          company_url: "https://sites.google.com/student.onlinedegree.iitm.ac.in/corbetthouse/",
+          logo_path: "corbett.png",
           duration: "Jan 2018 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
@@ -594,10 +593,9 @@ const experience = {
           color: "#0C9D58",
         },
         {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
+          title: "Teacher | Mentor",
+          company: "A+ Classes",
+          logo_path: "a+classes.png",
           duration: "July 2019 - PRESENT",
           location: "Work From Home",
           description:
@@ -673,7 +671,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "tushar.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },

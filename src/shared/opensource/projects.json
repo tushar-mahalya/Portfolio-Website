@@ -24,9 +24,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "truvisory",
+      "name": "Forecasting-Stock-Using-LSTM",
       "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/ashutosh1919/truvisory",
+      "url": "https://github.com/tushar-mahalya/Forecasting-Stock-Using-LSTM",
       "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
       "isFork": false,
       "languages": [
@@ -46,9 +46,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
+      "name": "Sentiment-Analysis-Using-RoBERTa",
       "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/ashutosh1919/ml-data-bot",
+      "url": "https://github.com/tushar-mahalya/Sentiment-Analysis-Using-RoBERTa",
       "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
       "isFork": false,
       "languages": [
@@ -60,9 +60,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
+      "name": "Book-Recommender-System",
       "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/ashutosh1919/Stock-Prediction-using-LSTM",
+      "url": "https://github.com/tushar-mahalya/Book-Recommender-System",
       "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
       "isFork": false,
       "languages": [
@@ -78,9 +78,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
+      "name": "Currency-Converter-ChatBot",
       "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
+      "url": "https://github.com/tushar-mahalya/Currency-Converter-ChatBot",
       "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
       "isFork": false,
       "languages": [
@@ -92,9 +92,9 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
+      "name": "Dynamic-Python-Dashboard",
       "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
+      "url": "https://github.com/tushar-mahalya/Dynamic-Python-Dashboard",
       "description": "Survival Game using Unity3D",
       "isFork": false,
       "languages": [

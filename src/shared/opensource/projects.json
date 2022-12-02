@@ -27,7 +27,7 @@
       "name": "Forecasting-Stock-Using-LSTM",
       "createdAt": "2020-06-03T11:53:55Z",
       "url": "https://github.com/tushar-mahalya/Forecasting-Stock-Using-LSTM",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
+      "description": "Forcasting stocks prices of 32 companies with error less than 1% using LSTM Neural Network Model over Time-Series data.",
       "isFork": false,
       "languages": [
         {
@@ -49,7 +49,7 @@
       "name": "Sentiment-Analysis-Using-RoBERTa",
       "createdAt": "2020-06-19T14:24:55Z",
       "url": "https://github.com/tushar-mahalya/Sentiment-Analysis-Using-RoBERTa",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
+      "description": "This project is meant to perform sentiment analysis of various text/string like - customer reviews, tweets, etc using advanced pre-trained RoBERTa model.",
       "isFork": false,
       "languages": [
         {
@@ -63,7 +63,7 @@
       "name": "Book-Recommender-System",
       "createdAt": "2018-11-03T05:00:56Z",
       "url": "https://github.com/tushar-mahalya/Book-Recommender-System",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
+      "description": "It's an advanced recommender system that uses statistical and machine learning model collectively to recommend books based on popularity and collaborative filter.",
       "isFork": false,
       "languages": [
         {
@@ -81,7 +81,7 @@
       "name": "Currency-Converter-ChatBot",
       "createdAt": "2019-08-13T13:13:00Z",
       "url": "https://github.com/tushar-mahalya/Currency-Converter-ChatBot",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "description": "A real-time working Telegram ChatBot for converting multiple currencies into one another. The ChatBot is constructed using Google DialogFlow Framework.",
       "isFork": false,
       "languages": [
         {
@@ -95,7 +95,7 @@
       "name": "Dynamic-Python-Dashboard",
       "createdAt": "2019-04-18T17:25:51Z",
       "url": "https://github.com/tushar-mahalya/Dynamic-Python-Dashboard",
-      "description": "Survival Game using Unity3D",
+      "description": "This project is aimed to create beautiful and interactive visualization/dashboard with Python using Panel library and hvPlot API.",
       "isFork": false,
       "languages": [
         {

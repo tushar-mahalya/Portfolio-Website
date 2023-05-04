@@ -80,9 +80,10 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Specialize in creating scalable and accurate models for deep learning and statistical use cases that support critical business decisions.",
+        "⚡ Acquires the ability to analyze complex datasets, identify patterns, and draw meaningful insights.",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Knowledgeable about cutting-edge AI technologies like NLP, GANs, Computer Vision (CV) and Transfer Learning"
       ],
       softwareSkills: [
         {

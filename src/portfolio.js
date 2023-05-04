@@ -130,9 +130,9 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Proficient in designing and implementing end-to-end data analytics solutions, from data collection and cleaning to visualization and reporting, using agile methodologies and best practices",
-        "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets and Python libraries such as Pandas, NumPy, Matplotlib and Seaborn.",
+        "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets and Python libraries such as Pandas, NumPy, Matplotlib and Seaborn",
         "⚡ Skilled in presenting data-driven insights to diverse audiences, including executive leadership, business stakeholders, and technical teams, using persuasive storytelling techniques and clear visualizations.",
-        "⚡ Experienced in working with large datasets, including data from various sources such as databases, APIs, and flat files, using SQL to extract insights and patterns.",
+        "⚡ Experienced in working with large datasets, including data from various sources such as databases, APIs, and flat files, using SQL to extract insights and patterns",
       ],
       softwareSkills: [
         {
@@ -215,7 +215,7 @@ const skills = {
       skills: [
         "⚡ Experienced in analyzing market trends and economic indicators to identify profitable investment opportunities and mitigate risk exposure, using fundamental and technical analysis methods",
         "⚡ Skilled in using trading platforms and tools, including Sensibull, Opstra, and Trading View, to execute trades and manage portfolios with high accuracy and efficiency",
-        "⚡ Capable of designing and implementing F&O trading strategies, including delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, and others, and their application in different market conditions and risk profiles",
+        "⚡ Capable of designing F&O trading strategies, including delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, and others, and their application in different market conditions and risk profiles",
       ],
       softwareSkills: [
         {

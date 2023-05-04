@@ -129,9 +129,10 @@ const skills = {
       title: "Data Analytics & Visualizations",
       fileName: "FullStackImg",
       skills: [
+        "⚡ Proficient in designing and implementing end-to-end data analytics solutions, from data collection and cleaning to visualization and reporting, using agile methodologies and best practices",
         "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets and Python libraries such as Pandas, NumPy, Matplotlib and Seaborn.",
-        "⚡ Proven ability to communicate complex data-driven insights to stakeholders through compelling data visualizations and reports",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Skilled in presenting data-driven insights to diverse audiences, including executive leadership, business stakeholders, and technical teams, using persuasive storytelling techniques and clear visualizations.",
+        "⚡ Experienced in working with large datasets, including data from various sources such as databases, APIs, and flat files, using SQL to extract insights and patterns.",
       ],
       softwareSkills: [
         {
@@ -212,9 +213,9 @@ const skills = {
       title: "Derivatives & Stock Trading",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Experienced in analyzing market trends and economic indicators to identify profitable investment opportunities and mitigate risk exposure, using fundamental and technical analysis methods",
+        "⚡ Skilled in using trading platforms and tools, including Sensibull, Opstra, and Trading View, to execute trades and manage portfolios with high accuracy and efficiency",
+        "⚡ Capable of designing and implementing F&O trading strategies, including delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, and others, and their application in different market conditions and risk profiles",
       ],
       softwareSkills: [
         {

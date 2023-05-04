@@ -129,8 +129,8 @@ const skills = {
       title: "Data Analytics & Visualizations",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets and Python libraries such as Pandas, NumPy, Matplotlib and Seaborn.",
+        "⚡ Proven ability to communicate complex data-driven insights to stakeholders through compelling data visualizations and reports",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [

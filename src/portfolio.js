@@ -129,17 +129,16 @@ const skills = {
       title: "Data Analytics & Visualizations",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in end-to-end data analytics solutions, covering data collection, cleaning, visualization, and reporting, using agile methodologies and best practices.",
-        "⚡ Expert in data analytics and visualization tools like Tableau, MS Excel, Google Sheets, and Python libraries (Pandas, NumPy, Matplotlib, Seaborn).",
+        "⚡ Proficient in end-to-end data analytics solutions, employing agile methodologies and best practices for data collection, cleaning, visualization, and reporting.",
+        "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets, and Python libraries (Pandas, NumPy, Matplotlib, Seaborn).",
         "⚡ Experienced in working with large datasets from different sources (databases, APIs, flat files), utilizing SQL for extracting insights and patterns.",
-        "⚡ Skilled in presenting data-driven insights to diverse audiences, including executives, stakeholders, and technical teams, using persuasive storytelling techniques and clear visualizations.",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "arcticons:tradingview",
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
           style: {
-            color: "#000000",
+            color: "#E97627",
           },
         },
         {

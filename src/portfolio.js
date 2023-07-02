@@ -135,74 +135,59 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "MS Excel",
+          fontAwesomeClassname: "vscode-icons:file-type-excel",
+          style: {
+            backgroundColor: "transparent"
+          },
+        },
+        {
           skillName: "Tableau",
-          fontAwesomeClassname: "simple-icons:tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
           style: {
-            color: "#E97627",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "SQL",
+          fontAwesomeClassname: "logos:mysql",
           style: {
-            color: "#1572B6",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "Matplotlib",
+          fontAwesomeClassname: "logos:matplotlib",
           style: {
-            color: "#CC6699",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Seaborn",
+          fontAwesomeClassname: "logos:seaborn-icon",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Pandas",
+          fontAwesomeClassname: "devicon:pandas-wordmark",
           style: {
-            color: "#61DAFB",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Numpy",
+          fontAwesomeClassname: "devicon:numpy",
           style: {
-            color: "#339933",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Jupyter",
+          fontAwesomeClassname: "logos:jupyter",
           style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
+            backgroundColor: "transparent"
           },
         },
       ],

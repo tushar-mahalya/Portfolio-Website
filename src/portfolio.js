@@ -80,10 +80,10 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Specialize in creating scalable and accurate models for deep learning and statistical use cases that support critical business decisions.",
+        "⚡ Specialize in creating scalable and optimized models for Machine Learning, Deep Learning and Statistical use cases that support critical business decisions.",
         "⚡ Acquires the ability to analyze complex datasets, identify patterns, and draw meaningful insights.",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-        "⚡ Knowledgeable about cutting-edge AI technologies like NLP, GANs, Computer Vision (CV) and Transfer Learning"
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis.",
+        "⚡ Knowledgeable about cutting-edge AI technologies like NLP, GANs, LLMs, Transformers & Autoencoders."
       ],
       softwareSkills: [
         {
@@ -129,10 +129,10 @@ const skills = {
       title: "Data Analytics & Visualizations",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Proficient in designing and implementing end-to-end data analytics solutions, from data collection and cleaning to visualization and reporting, using agile methodologies and best practices",
-        "⚡ Expert in data analytics and visualization tools, including Tableau, MS Excel, Google Sheets and Python libraries such as Pandas, NumPy, Matplotlib and Seaborn",
-        "⚡ Skilled in presenting data-driven insights to diverse audiences, including executive leadership, business stakeholders, and technical teams, using persuasive storytelling techniques and clear visualizations.",
-        "⚡ Experienced in working with large datasets, including data from various sources such as databases, APIs, and flat files, using SQL to extract insights and patterns",
+        "⚡ Proficient in end-to-end data analytics solutions, covering data collection, cleaning, visualization, and reporting, using agile methodologies and best practices.",
+        "⚡ Expert in data analytics and visualization tools like Tableau, MS Excel, Google Sheets, and Python libraries (Pandas, NumPy, Matplotlib, Seaborn).",
+        "⚡ Experienced in working with large datasets from different sources (databases, APIs, flat files), utilizing SQL for extracting insights and patterns.",
+        "⚡ Skilled in presenting data-driven insights to diverse audiences, including executives, stakeholders, and technical teams, using persuasive storytelling techniques and clear visualizations.",
       ],
       softwareSkills: [
         {
@@ -213,9 +213,9 @@ const skills = {
       title: "Derivatives & Stock Trading",
       fileName: "DesignImg",
       skills: [
-        "⚡ Experienced in analyzing market trends and economic indicators to identify profitable investment opportunities and mitigate risk exposure, using fundamental and technical analysis methods",
-        "⚡ Skilled in using trading platforms and tools, including Sensibull, Opstra, and Trading View, to execute trades and manage portfolios with high accuracy and efficiency",
-        "⚡ Capable of designing F&O trading strategies, including delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, and others, and their application in different market conditions and risk profiles",
+        "⚡ Experienced in analyzing market trends and economic indicators to find profitable investment opportunities and manage risks, using fundamental and technical analysis methods.",
+        "⚡ Skilled in using trading platforms like Sensibull, Opstra, and Trading View to execute trades and efficiently manage portfolios.",
+        "⚡ Capable of designing F&O trading strategies (delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, etc.) and applying them in various market conditions and risk profiles.",
       ],
       softwareSkills: [
         {

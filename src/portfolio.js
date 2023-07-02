@@ -157,7 +157,7 @@ const skills = {
         },
         {
           skillName: "Matplotlib",
-          fontAwesomeClassname: "logos:matplotlib",
+          fontAwesomeClassname: "devicon:matplotlib",
           style: {
             backgroundColor: "transparent"
           },

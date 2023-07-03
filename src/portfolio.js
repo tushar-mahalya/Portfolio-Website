@@ -456,44 +456,6 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
-      experiences: [
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
-      ],
-    },
-    {
       title: "Internships",
       experiences: [
         {
@@ -503,7 +465,7 @@ const experience = {
           logo_path: "qualdigiin_logo.png",
           duration: "Jun 2022 - Nov 2022",
           location: "Kanpur, Uttar Pradesh",
-          description: "QualDigiIn is a software solutions company. As a intern, I have following responsibilities :(1) Acquiring data saved across different administrative databases.(2) Cleaning and analysing data to gain important insights/facts for further integration.(3) Creating reports and dashboards using Microsoft Excel.",
+          description: "QualDigiIn is a software solutions company. As a intern, I have following responsibilities: (1) Managed and optimized SQL databases for 25+ clients, ensuring efficient data storage and retrieval. (2) Gathered, cleaned, and organized data using MS Excel extensively, ensuring data integrity and facilitating analysis. (3) Utilized Tableau to create dynamic dashboards connected to SQL databases, providing live feeds and insights for multiple clients. (4) Led 5 analytical projects, extracting valuable insights and identifying patterns from primary data sources, resulting in enhanced business strategies and increased revenues for clients. (5) Implemented a machine learning-based recommendation engine for an e-commerce website, achieving 5% (estimate) projected sales growth and improving user experience.",
           color: "#ee3c26",
         },
         {

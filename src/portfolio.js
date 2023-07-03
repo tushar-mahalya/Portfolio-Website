@@ -55,12 +55,6 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "IIT-M",
-    link: "https://app.onlinedegree.iitm.ac.in/student/21F3000007",
-    fontAwesomeIcon: "fa-building-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#FFD700", // Reference https://simpleicons.org/?q=linkedin
-  },
-  {
     name: "Gmail",
     link: "mailto:tusharmahalya@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands

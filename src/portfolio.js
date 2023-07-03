@@ -201,6 +201,9 @@ const skills = {
         "⚡ Skilled in using trading platforms like Sensibull, Opstra, and Trading View to execute trades and efficiently manage portfolios.",
         "⚡ Capable of designing F&O trading strategies (delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, etc.) and applying them in various market conditions and risk profiles.",
       ],
+      softwareSkills: [
+        
+      ]
     },
   ],
 };

@@ -304,7 +304,7 @@ const degrees = {
         "    ⚡ Strong foundation in core subjects: Mathematics, Science, Social Science, Languages.",
         "    ⚡ Practical application of knowledge: Experiments, problem-solving, Quantatative & Logical reasoning.",
         "    ⚡ Holistic development: Physical Education, fitness, sportsmanship, teamwork & communications skills.",
-        "    ⚡ Scored perfect 10 CGPA and received "Academic Excellence" award from District and Session Judge - O.P. Verma.",
+        "    ⚡ Scored perfect 10 CGPA and received \"Academic Excellence\" award from District and Session Judge - O.P. Verma.",
         "Class 12th:",
         "    ⚡ In-depth study of Physics, Chemistry, Mathematics: Mechanics, electricity, thermodynamics, organic and inorganic chemistry, calculus.",
         "    ⚡ Practical experiments and lab work: Scientific equipment, observation recording, data analysis.",

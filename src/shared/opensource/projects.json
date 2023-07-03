@@ -2,7 +2,137 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Classifying-Buildings-Post-Hurricane",
+      "name": "Spotify Song Recommender System",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/tushar-mahalya/Songs-Recommender-System",
+      "description": "Recommender system suggests songs based on selected songs' audio features.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Scikitlearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "Sagemaker Studio Lab",
+          "iconifyClass": "skill-icons:aws-light"
+        },
+        {
+          "name": "Tableau",
+          "iconifyClass": "logos:tableau-icon"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "logos:streamlit"
+        },
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Krishi: Detect Plant Disease with Ease !",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/tushar-mahalya/Krishi",
+      "description": "ML application detects 21 plant diseases across 9 species with +95% accuracy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Keras",
+          "iconifyClass": "devicon:keras"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos:flask"
+        },
+        {
+          "name": "Sagemaker Studio Lab",
+          "iconifyClass": "skill-icons:aws-light"
+        },
+        {
+          "name": "MS Azure",
+          "iconifyClass": "devicon:azure"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Custom ChatGPT",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/tushar-mahalya/Custom-ChatGPT",
+      "description": "Chatbot integrates GPT-3 model, fine-tuned with Reddit data, combining Reddit's wisdom and OpenAI's power.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "OpenAI",
+          "iconifyClass": "logos:openai-icon"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "logos:numpy"
+        },
+        {
+          "name": "Sagemaker Studio Lab",
+          "iconifyClass": "skill-icons:aws-light"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "logos:streamlit"
+        },
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Racial Bias Detection Against African-American Defendants",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "hhttps://github.com/tushar-mahalya/Racial-Bias-Detection",
+      "description": "Inferential ML detects racial bias against African-American criminals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "logos:pandas-icon"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "logos:numpy"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos:jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Forecasting NIFTY50",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/tushar-mahalya/Forecasting-NIFTY50",
+      "description": "Forcasting stocks prices of 32 companies with error less than 1% using LSTM Neural Network Model over Time-Series data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Keras",
+          "iconifyClass": "devicon:keras"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "logos:pandas-icon"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "logos:numpy"
+        },
+        {
+          "name": "Sagemaker Studio Lab",
+          "iconifyClass": "skill-icons:aws-light"
+        },
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Classifying Buildings Post-Hurricane",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://github.com/tushar-mahalya/Classifying-Buildings-Post-Hurricane",
       "description": "Classification of damaged and non-damaged buildings using Convolutional Neural Network (CNN) trained over satellite imagery.",
@@ -13,43 +143,25 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Scikitlearn",
-          "iconifyClass": "simple-icons:scikitlearn"
+          "name": "Tensorflow",
+          "iconifyClass": "logos:tensorflow"
         },
         {
-          "name": "Jupyter Notebook ",
+          "name": "Scikitlearn",
+          "iconifyClass": "devicon:scikitlearn"
+        },
+        {
+          "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Forecasting-Stock-Using-LSTM",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/tushar-mahalya/Forecasting-Stock-Using-LSTM",
-      "description": "Forcasting stocks prices of 32 companies with error less than 1% using LSTM Neural Network Model over Time-Series data.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "Sentiment-Analysis-Using-RoBERTa",
+      "name": "Text-to-Image Synthesis",
       "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/tushar-mahalya/Sentiment-Analysis-Using-RoBERTa",
-      "description": "This project is meant to perform sentiment analysis of various text/string like - customer reviews, tweets, etc using advanced pre-trained RoBERTa model.",
+      "url": "https://github.com/tushar-mahalya/Text-to-Image-Synthesis",
+      "description": "Using StackGAN which proposes a deep learning architecture capable of creating photorealistic images from the given text.",
       "isFork": false,
       "languages": [
         {
@@ -60,10 +172,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Book-Recommender-System",
+      "name": "Predicting Stocks Trend from News Headlines",
       "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/tushar-mahalya/Book-Recommender-System",
-      "description": "It's an advanced recommender system that uses statistical and machine learning model collectively to recommend books based on popularity and collaborative filter.",
+      "url": "https://github.com/tushar-mahalya/Stock-Trend-Prediction-from-News",
+      "description": "Analyzing News headlines to make predictions about the direction of stock prices.",
       "isFork": false,
       "languages": [
         {
@@ -73,34 +185,6 @@
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Currency-Converter-ChatBot",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/tushar-mahalya/Currency-Converter-ChatBot",
-      "description": "A real-time working Telegram ChatBot for converting multiple currencies into one another. The ChatBot is constructed using Google DialogFlow Framework.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Dynamic-Python-Dashboard",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/tushar-mahalya/Dynamic-Python-Dashboard",
-      "description": "This project is aimed to create beautiful and interactive visualization/dashboard with Python using Panel library and hvPlot API.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
         }
       ]
     }

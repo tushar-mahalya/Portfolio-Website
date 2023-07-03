@@ -57,8 +57,8 @@ const socialMediaLinks = [
   {
     name: "IIT-M",
     link: "https://app.onlinedegree.iitm.ac.in/student/21F3000007",
-    fontAwesomeIcon: "fa-solid fa-building", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "transparent", // Reference https://simpleicons.org/?q=linkedin
+    fontAwesomeIcon: "fa-building-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#FFD700", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",

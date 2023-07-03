@@ -108,6 +108,13 @@ const skills = {
           },
         },
         {
+          skillName: "Scikit-Learn",
+          fontAwesomeClassname: "devicon:scikitlearn",
+          style: {
+            backgroundColor: "transparent"
+          },
+        },
+        {
           skillName: "Azure",
           fontAwesomeClassname: "devicon:azure",
           style: {
@@ -124,6 +131,13 @@ const skills = {
         {
           skillName: "Git",
           fontAwesomeClassname: "devicon:git",
+          style: {
+            backgroundColor: "transparent"
+          },
+        },
+        {
+          skillName: "Jupyter",
+          fontAwesomeClassname: "logos:jupyter",
           style: {
             backgroundColor: "transparent"
           },
@@ -184,13 +198,6 @@ const skills = {
         {
           skillName: "Numpy",
           fontAwesomeClassname: "devicon:numpy",
-          style: {
-            backgroundColor: "transparent"
-          },
-        },
-        {
-          skillName: "Jupyter",
-          fontAwesomeClassname: "logos:jupyter",
           style: {
             backgroundColor: "transparent"
           },

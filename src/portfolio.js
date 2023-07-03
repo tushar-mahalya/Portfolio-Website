@@ -452,7 +452,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have gained valuable experience as a Data Analyst, successfully completing multiple projects in the fields of data science, machine learning, and data analytics. These projects were conducted online for prominent tech startups and companies, providing me with a solid foundation in the practical application of these domains.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -463,7 +463,7 @@ const experience = {
           company: "QualDigiIn Technologies Pvt. Ltd.",
           company_url: "https://qualdigiin.com/",
           logo_path: "qualdigiin_logo.png",
-          duration: "Nov 2022 - May 2022",
+          duration: "Jul 2018 - Sept 2018",
           location: "Kanpur, Uttar Pradesh",
           description: "QualDigiIn is a software solutions company. As a intern, I have following responsibilities:\n(1) Managed and optimized SQL databases for 25+ clients, ensuring efficient data storage and retrieval.\n(2) Gathered, cleaned, and organized data using MS Excel extensively, ensuring data integrity and facilitating analysis.\n(3) Utilized Tableau to create dynamic dashboards connected to SQL databases, providing live feeds and insights for multiple clients. (4) Led 5 analytical projects, extracting valuable insights and identifying patterns from primary data sources, resulting in enhanced business strategies and increased revenues for clients.\n(5) Implemented a machine learning-based recommendation engine for an e-commerce website, achieving 5% (estimate) projected sales growth and improving user experience.",
           color: "#ee3c26",
@@ -473,7 +473,7 @@ const experience = {
           company: "Forage Pvt. Ltd.",
           company_url:
             "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
+          logo_path: "forage.png",
           duration: "Nov 2018 - Dec 2018",
           location: "Remote (Online)",
           description:
@@ -485,17 +485,6 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
-        {
-          title: "Scribe",
-          company: "Volunteer for a Cause (VFC)",
-          company_url: "https://www.vfcindia.in/penpals",
-          logo_path: "vfc.png",
-          duration: "May 2022",
-          location: "Kanpur, Uttar Pradesh",
-          description:
-            "Served as a scribe for 4 visually impaired students in the Pen Pals Programme, providing support during their academic exams in Kanpur University (CSJMU).",
-          color: "#000000",
-        },
         {
           title: "Club Volunteer",
           company: "Academic Societies",
@@ -512,10 +501,21 @@ const experience = {
           company: "A+ Classes",
           logo_path: "a+classes.png",
           duration: "July 2019 - PRESENT",
-          location: "Work From Home",
+          location: "Kanpur, Uttar Pradesh",
           description:
             "Experienced teacher/mentor at A+ Classes, providing affordable education to primary and secondary grade students.",
           color: "#181717",
+        },
+        {
+          title: "Scribe",
+          company: "Volunteer for a Cause (VFC)",
+          company_url: "https://www.vfcindia.in/penpals",
+          logo_path: "vfc.png",
+          duration: "May 2022",
+          location: "Kanpur, Uttar Pradesh",
+          description:
+            "Served as a scribe for 4 visually impaired students in the Pen Pals Programme, providing support during their academic exams in Kanpur University (CSJMU).",
+          color: "#000000",
         },
       ],
     },
@@ -588,7 +588,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "tushar.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -606,7 +606,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+91 7652064884",
   },
 };
 

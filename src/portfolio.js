@@ -87,40 +87,45 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent"
+          },
+        },
+        {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
-            backgroundColor: "transparent",
+            backgroundColor: "transparent"
           },
         },
         {
           skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          fontAwesomeClassname: "devicon:keras",
           style: {
-            backgroundColor: "white",
-            color: "#D00000",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Azure",
+          fontAwesomeClassname: "devicon:azure",
           style: {
-            backgroundColor: "transparent",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "Anaconda",
+          fontAwesomeClassname: "devicon:anaconda",
           style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
+            backgroundColor: "transparent"
           },
         },
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "Git",
+          fontAwesomeClassname: "devicon:git",
           style: {
-            color: "#4285F4",
+            backgroundColor: "transparent"
           },
         },
       ],

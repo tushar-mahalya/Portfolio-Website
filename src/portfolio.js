@@ -273,9 +273,10 @@ const degrees = {
       alt_name: "IIT Madras",
       duration: "2021 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Currently pursuing a comprehensive education in data science, covering a wide range of subjects such as Mathematics, Statistics, Python programming and Database systems.",
+        "⚡ Actively developing practical skills in Data analysis, Business Data Management, Machine Learning, and Deep Learning through hands-on projects and Research Papers.",
+        "⚡ Engaged in data science projects both individually and as part of collaborative teams, showcasing proficiency in analyzing intricate datasets, extracting valuable insights, and effectively presenting findings.",
+        "⚡ Awarded 75% scholarship based on a record of consistent academic performance and exceptional scores in Qualifier exam."
       ],
       website_link: "https://onlinedegree.iitm.ac.in/",
     },
@@ -286,24 +287,11 @@ const degrees = {
       alt_name: "CSJMU",
       duration: "2018 - 2021",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Acquired comprehensive knowledge of electronics principles, circuit, electronic devices, digital electronics, and communication systems.",
+        "⚡ Developed practical skills in designing and analyzing electronic circuits, utilizing software tools for circuit simulation and PCB design, and troubleshooting electronic devices.",
+        "⚡ Explored specialized areas such as microprocessors, microcontrollers, embedded systems, and gained exposure to emerging technologies like IoT, robotics, and automation.",
       ],
       website_link: "https://www.davcollegekanpur.ac.in/",
-    },
-    {
-      title: "National Institute of Electronics & Information Technology",
-      subtitle: "O-Level Diploma",
-      logo_path: "nielit.png",
-      alt_name: "NIELIT",
-      duration: "2019 - 2021",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "https://nielit.gov.in/",
     },
     {
       title: "Gulmohar Public School",
@@ -312,10 +300,17 @@ const degrees = {
       alt_name: "CBSE",
       duration: "2016, 2018",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
+        "Class 10th:",
+        "    ⚡ Strong foundation in core subjects: Mathematics, Science, Social Science, Languages.",
+        "    ⚡ Practical application of knowledge: Experiments, problem-solving, Quantatative & Logical reasoning.",
+        "    ⚡ Holistic development: Physical Education, fitness, sportsmanship, teamwork & communications skills.",
+        "    ⚡ Scored perfect 10 CGPA and received "Academic Excellence" award from District and Session Judge - O.P. Verma.",
+        "Class 12th:",
+        "    ⚡ In-depth study of Physics, Chemistry, Mathematics: Mechanics, electricity, thermodynamics, organic and inorganic chemistry, calculus.",
+        "    ⚡ Practical experiments and lab work: Scientific equipment, observation recording, data analysis.",
+        "    ⚡ Language proficiency and communication skills: English literature, grammar, writing. Critical thinking, effective communication.",
+        "    ⚡ Attained an 8 CGPA in the Science stream during Class 12th.",
+        ],
       website_link: "https://www.gpsknp.in/",
     }
   ],
@@ -323,6 +318,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "Foundational Level Certificate",
+      subtitle: "- Andrew Thangaraj",
+      logo_path: "iitmadrasbsc.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1KuSadHneiQjrDvCG4KxNjPSZBArEo76R/view?usp=sharing",
+      alt_name: "Indian Institute of Techonology, Madras",
+      color_code: "#FFFFFF",
+    },
     {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",

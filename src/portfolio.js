@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Tushar's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "An enthusiastic individual who consistently strives to contribute to the development of comprehensive products that establish sustainable and scalable social and technical systems, with the aim of generating significant impact.",
   og: {
     title: "Tushar Sharma Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Tushar Sharma",
 
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "An enthusiastic individual who consistently strives to contribute to the development of comprehensive products that establish sustainable and scalable social and technical systems, with the aim of generating significant impact.",
   resumeLink:
     "https://tushar-mahalya.github.io/images-repo/Tushar_Sharma_Resume.pdf",
   portfolio_repository: "https://github.com/tushar-mahalya/Portfolio-Website",
@@ -55,6 +55,12 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
+    name: "IIT-M",
+    link: "https://app.onlinedegree.iitm.ac.in/student/21F3000007",
+    fontAwesomeIcon: "fa-graduation-cap", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#FFD700", // Reference https://simpleicons.org/?q=linkedin
+  },
+  {
     name: "Gmail",
     link: "mailto:tusharmahalya@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
@@ -71,6 +77,12 @@ const socialMediaLinks = [
     link: "https://www.instagram.com/tushar_mahalya/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Discord",
+    link: "https://discordapp.com/users/TusR#7152",
+    fontAwesomeIcon: "fa-discord", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#5865F2", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 

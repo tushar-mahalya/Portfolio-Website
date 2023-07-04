@@ -14,7 +14,7 @@
 },
 {
 "name": "Streamlit",
-"iconifyClass": "logos-streamlit"
+"iconifyClass": "devicon:streamlit"
 },
 {
 "name": "Tableau",
@@ -62,7 +62,7 @@
 },
 {
 "name": "Streamlit",
-"iconifyClass": "logos-streamlit"
+"iconifyClass": "devicon:streamlit"
 }
 ]
 },

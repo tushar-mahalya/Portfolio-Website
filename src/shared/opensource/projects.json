@@ -23,7 +23,7 @@
 {
 "name": "Streamlit",
 "iconifyClass": "logos:streamlit"
-},
+}
 ]
 },
 {
@@ -127,7 +127,7 @@
 {
 "name": "Sagemaker Studio Lab",
 "iconifyClass": "skill-icons:aws-light"
-},
+}
 ]
 },
 {

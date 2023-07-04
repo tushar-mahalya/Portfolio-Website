@@ -1,160 +1,160 @@
 {
-  "data": [
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Spotify Song Recommender System",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/tushar-mahalya/Songs-Recommender-System",
-      "description": "Recommender system suggests songs based on selected songs' audio features.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Scikitlearn",
-          "iconifyClass": "devicon:scikitlearn"
-        },
-        {
-          "name": "Sagemaker Studio Lab",
-          "iconifyClass": "skill-icons:aws-light"
-        },
-        {
-          "name": "Tableau",
-          "iconifyClass": "logos:tableau-icon"
-        },
-        {
-          "name": "Streamlit",
-          "iconifyClass": "logos:streamlit"
-        },
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Krishi: Detect Plant Disease with Ease !",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/tushar-mahalya/Krishi",
-      "description": "ML application detects 21 plant diseases across 9 species with +95% accuracy.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Keras",
-          "iconifyClass": "devicon:keras"
-        },
-        {
-          "name": "Flask",
-          "iconifyClass": "logos:flask"
-        },
-        {
-          "name": "Sagemaker Studio Lab",
-          "iconifyClass": "skill-icons:aws-light"
-        },
-        {
-          "name": "MS Azure",
-          "iconifyClass": "devicon:azure"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Custom ChatGPT",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/tushar-mahalya/Custom-ChatGPT",
-      "description": "Chatbot integrates GPT-3 model, fine-tuned with Reddit data, combining Reddit's wisdom and OpenAI's power.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "OpenAI",
-          "iconifyClass": "logos:openai-icon"
-        },
-        {
-          "name": "Numpy",
-          "iconifyClass": "logos:numpy"
-        },
-        {
-          "name": "Sagemaker Studio Lab",
-          "iconifyClass": "skill-icons:aws-light"
-        },
-        {
-          "name": "Streamlit",
-          "iconifyClass": "logos:streamlit"
-        },
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Racial Bias Detection Against African-American Defendants",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "hhttps://github.com/tushar-mahalya/Racial-Bias-Detection",
-      "description": "Inferential ML detects racial bias against African-American criminals.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Pandas",
-          "iconifyClass": "logos:pandas-icon"
-        },
-        {
-          "name": "Numpy",
-          "iconifyClass": "logos:numpy"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos:jupyter"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "Forecasting NIFTY50",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/tushar-mahalya/Forecasting-NIFTY50",
-      "description": "Forcasting stocks prices of 32 companies with error less than 1% using LSTM Neural Network Model over Time-Series data.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Keras",
-          "iconifyClass": "devicon:keras"
-        },
-        {
-          "name": "Pandas",
-          "iconifyClass": "logos:pandas-icon"
-        },
-        {
-          "name": "Numpy",
-          "iconifyClass": "logos:numpy"
-        },
-        {
-          "name": "Sagemaker Studio Lab",
-          "iconifyClass": "skill-icons:aws-light"
-        },
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Classifying Buildings Post-Hurricane",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/tushar-mahalya/Classifying-Buildings-Post-Hurricane",
-      "description": "Classification of damaged and non-damaged buildings using Convolutional Neural Network (CNN) trained over satellite imagery.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Tensorflow",
-          "iconifyClass": "logos:tensorflow"
-        },
-        {
-          "name": "Scikitlearn",
-          "iconifyClass": "devicon:scikitlearn"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    }
-  ]
+"data": [
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+"name": "Spotify Song Recommender System",
+"createdAt": "2020-03-06T16:26:54Z",
+"url": "https://github.com/tushar-mahalya/Songs-Recommender-System",
+"description": "Recommender system suggests songs based on selected songs' audio features.",
+"isFork": false,
+"languages": [
+{
+"name": "Scikitlearn",
+"iconifyClass": "devicon:scikitlearn"
+},
+{
+"name": "Sagemaker Studio Lab",
+"iconifyClass": "skill-icons:aws-light"
+},
+{
+"name": "Tableau",
+"iconifyClass": "logos:tableau-icon"
+},
+{
+"name": "Streamlit",
+"iconifyClass": "logos:streamlit"
+},
+]
+},
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+"name": "Krishi: Detect Plant Disease with Ease !",
+"createdAt": "2020-03-06T16:26:54Z",
+"url": "https://github.com/tushar-mahalya/Krishi",
+"description": "ML application detects 21 plant diseases across 9 species with +95% accuracy.",
+"isFork": false,
+"languages": [
+{
+"name": "Keras",
+"iconifyClass": "devicon:keras"
+},
+{
+"name": "Flask",
+"iconifyClass": "logos:flask"
+},
+{
+"name": "Sagemaker Studio Lab",
+"iconifyClass": "skill-icons:aws-light"
+},
+{
+"name": "MS Azure",
+"iconifyClass": "devicon:azure"
+}
+]
+},
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+"name": "Custom ChatGPT",
+"createdAt": "2020-03-06T16:26:54Z",
+"url": "https://github.com/tushar-mahalya/Custom-ChatGPT",
+"description": "Chatbot integrates GPT-3 model, fine-tuned with Reddit data, combining Reddit's wisdom and OpenAI's power.",
+"isFork": false,
+"languages": [
+{
+"name": "OpenAI",
+"iconifyClass": "logos:openai-icon"
+},
+{
+"name": "Numpy",
+"iconifyClass": "logos:numpy"
+},
+{
+"name": "Sagemaker Studio Lab",
+"iconifyClass": "skill-icons:aws-light"
+},
+{
+"name": "Streamlit",
+"iconifyClass": "logos:streamlit"
+},
+]
+},
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+"name": "Racial Bias Detection Against African-American Defendants",
+"createdAt": "2020-03-06T16:26:54Z",
+"url": "hhttps://github.com/tushar-mahalya/Racial-Bias-Detection",
+"description": "Inferential ML detects racial bias against African-American criminals.",
+"isFork": false,
+"languages": [
+{
+"name": "Python",
+"iconifyClass": "logos-python"
+},
+{
+"name": "Pandas",
+"iconifyClass": "logos:pandas-icon"
+},
+{
+"name": "Numpy",
+"iconifyClass": "logos:numpy"
+},
+{
+"name": "Jupyter Notebook",
+"iconifyClass": "logos:jupyter"
+}
+]
+},
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+"name": "Forecasting NIFTY50",
+"createdAt": "2020-06-03T11:53:55Z",
+"url": "https://github.com/tushar-mahalya/Forecasting-NIFTY50",
+"description": "Forcasting stocks prices of 32 companies with error less than 1% using LSTM Neural Network Model over Time-Series data.",
+"isFork": false,
+"languages": [
+{
+"name": "Keras",
+"iconifyClass": "devicon:keras"
+},
+{
+"name": "Pandas",
+"iconifyClass": "logos:pandas-icon"
+},
+{
+"name": "Numpy",
+"iconifyClass": "logos:numpy"
+},
+{
+"name": "Sagemaker Studio Lab",
+"iconifyClass": "skill-icons:aws-light"
+},
+]
+},
+{
+"id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+"name": "Classifying Buildings Post-Hurricane",
+"createdAt": "2020-03-06T16:26:54Z",
+"url": "https://github.com/tushar-mahalya/Classifying-Buildings-Post-Hurricane",
+"description": "Classification of damaged and non-damaged buildings using Convolutional Neural Network (CNN) trained over satellite imagery.",
+"isFork": false,
+"languages": [
+{
+"name": "Python",
+"iconifyClass": "logos-python"
+},
+{
+"name": "Tensorflow",
+"iconifyClass": "logos:tensorflow"
+},
+{
+"name": "Scikitlearn",
+"iconifyClass": "devicon:scikitlearn"
+},
+{
+"name": "Jupyter Notebook",
+"iconifyClass": "logos-jupyter"
+}
+]
+}
+]
 }

@@ -18,11 +18,11 @@
 },
 {
 "name": "Tableau",
-"iconifyClass": "logos:tableau-icon"
+"iconifyClass": "logos-tableau-icon"
 },
 {
 "name": "Streamlit",
-"iconifyClass": "logos:streamlit"
+"iconifyClass": "logos-streamlit"
 }
 ]
 },
@@ -40,7 +40,7 @@
 },
 {
 "name": "Flask",
-"iconifyClass": "logos:flask"
+"iconifyClass": "logos-flask"
 },
 {
 "name": "Sagemaker Studio Lab",
@@ -62,11 +62,11 @@
 "languages": [
 {
 "name": "OpenAI",
-"iconifyClass": "logos:openai-icon"
+"iconifyClass": "logos-openai-icon"
 },
 {
 "name": "Numpy",
-"iconifyClass": "logos:numpy"
+"iconifyClass": "logos-numpy"
 },
 {
 "name": "Sagemaker Studio Lab",
@@ -74,7 +74,7 @@
 },
 {
 "name": "Streamlit",
-"iconifyClass": "logos:streamlit"
+"iconifyClass": "logos-streamlit"
 },
 ]
 },
@@ -92,15 +92,15 @@
 },
 {
 "name": "Pandas",
-"iconifyClass": "logos:pandas-icon"
+"iconifyClass": "logos-pandas-icon"
 },
 {
 "name": "Numpy",
-"iconifyClass": "logos:numpy"
+"iconifyClass": "logos-numpy"
 },
 {
 "name": "Jupyter Notebook",
-"iconifyClass": "logos:jupyter"
+"iconifyClass": "logos-jupyter"
 }
 ]
 },
@@ -118,11 +118,11 @@
 },
 {
 "name": "Pandas",
-"iconifyClass": "logos:pandas-icon"
+"iconifyClass": "logos-pandas-icon"
 },
 {
 "name": "Numpy",
-"iconifyClass": "logos:numpy"
+"iconifyClass": "logos-numpy"
 },
 {
 "name": "Sagemaker Studio Lab",
@@ -144,7 +144,7 @@
 },
 {
 "name": "Tensorflow",
-"iconifyClass": "logos:tensorflow"
+"iconifyClass": "logos-tensorflow"
 },
 {
 "name": "Scikitlearn",

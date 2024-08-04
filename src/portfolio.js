@@ -318,6 +318,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Machine Learning Specialization",
+      subtitle: "- Andrew Ng, Eddy Shyu",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/U7RC4766YPQ6",
+      alt_name: "Stanford University | DeepLearning.AI",
+      color_code: "#ecfcfc",
+    },
+    {
       title: "Foundational Level Certificate",
       subtitle: "- Andrew Thangaraj",
       logo_path: "iitmadrasbsc.png",
@@ -353,7 +362,6 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "#E7F2F8",
     },
-
     {
       title: "IBM Data Analyst",
       subtitle: "- Rav Ahuja",
@@ -404,7 +412,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/11EXRAnMPneYcgJ73lljjZq7ynO1IjmJY/view",
       alt_name: "Coursera",
-      color_code: "#443C3C",
+      color_code: "#E6E6FA",
     },
     {
       title: "Databases & SQL for Data Science with Python",

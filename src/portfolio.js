@@ -20,12 +20,12 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Tushar Sharma",
-  logo_name: "Tushar Sharma",
+  logo_name: "Tushar",
 
   subTitle:
     "An enthusiastic individual who consistently strives to contribute to the development of comprehensive products that establish sustainable and scalable social and technical systems, with the aim of generating significant impact.",
   resumeLink:
-    "https://tushar-mahalya.github.io/images-repo/Tushar_Sharma_Resume.pdf",
+    "https://tushar-mahalya.github.io/images-repo/Tushar-Sharma-CV-(Latest).pdf",
   portfolio_repository: "https://github.com/tushar-mahalya/Portfolio-Website",
   githubProfile: "https://github.com/tushar-mahalya",
 };

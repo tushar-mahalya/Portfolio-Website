@@ -39,7 +39,7 @@ const socialMediaLinks = [
   // hackerrank: "https://www.hackerrank.com/tushar_5harma",
   // leetcode: "https://leetcode.com/tushar_5harma/",
   // oracle dev gym: "https://devgym.oracle.com/pls/apex/f?p=10001:26:13748499023620:::RP,26:P26_USER_ID:343935",
-  // kaggle: "https://www.kaggle.com/tushar5harma"  
+  // kaggle: "https://www.kaggle.com/tushar5harma"
   // instagram: "https://www.instagram.com/tushar_mahalya/"
 
   {
@@ -89,63 +89,63 @@ const skills = {
         "⚡ Specialize in creating scalable and optimized models for Machine Learning, Deep Learning and Statistical use cases that support critical business decisions.",
         "⚡ Acquires the ability to analyze complex datasets, identify patterns, and draw meaningful insights.",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis.",
-        "⚡ Knowledgeable about cutting-edge AI technologies like NLP, GANs, LLMs, Transformers & Autoencoders."
+        "⚡ Knowledgeable about cutting-edge AI technologies like NLP, GANs, LLMs, Transformers & Autoencoders.",
       ],
       softwareSkills: [
         {
           skillName: "Python",
           fontAwesomeClassname: "logos:python",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Keras",
           fontAwesomeClassname: "devicon:keras",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Scikit-Learn",
           fontAwesomeClassname: "devicon:scikitlearn",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Azure",
           fontAwesomeClassname: "devicon:azure",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Anaconda",
           fontAwesomeClassname: "devicon:anaconda",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Git",
           fontAwesomeClassname: "devicon:git",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Jupyter",
           fontAwesomeClassname: "logos:jupyter",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -163,49 +163,49 @@ const skills = {
           skillName: "MS Excel",
           fontAwesomeClassname: "vscode-icons:file-type-excel",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Tableau",
           fontAwesomeClassname: "logos:tableau-icon",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "SQL",
           fontAwesomeClassname: "logos:mysql",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Matplotlib",
           fontAwesomeClassname: "devicon:matplotlib",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Seaborn",
           fontAwesomeClassname: "logos:seaborn-icon",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Pandas",
           fontAwesomeClassname: "devicon:pandas-wordmark",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Numpy",
           fontAwesomeClassname: "devicon:numpy",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -219,9 +219,7 @@ const skills = {
         "⚡ Skilled in using trading platforms like Sensibull, Opstra, and Trading View to execute trades and efficiently manage portfolios.",
         "⚡ Capable of designing F&O trading strategies (delta hedging, straddle/strangle, butterfly, calendar spread, iron condor, etc.) and applying them in various market conditions and risk profiles.",
       ],
-      softwareSkills: [
-        
-      ]
+      softwareSkills: [],
     },
   ],
 };
@@ -251,7 +249,8 @@ const competitiveSites = {
       style: {
         color: "#E34321",
       },
-      profileLink: "https://devgym.oracle.com/pls/apex/f?p=10001:26:13748499023620:::RP,26:P26_USER_ID:343935",
+      profileLink:
+        "https://devgym.oracle.com/pls/apex/f?p=10001:26:13748499023620:::RP,26:P26_USER_ID:343935",
     },
     {
       siteName: "Kaggle",
@@ -276,7 +275,7 @@ const degrees = {
         "⚡ Currently pursuing a comprehensive education in data science, covering a wide range of subjects such as Mathematics, Statistics, Python programming and Database systems.",
         "⚡ Actively developing practical skills in Data analysis, Business Data Management, Machine Learning, and Deep Learning through hands-on projects and Research Papers.",
         "⚡ Engaged in data science projects both individually and as part of collaborative teams, showcasing proficiency in analyzing intricate datasets, extracting valuable insights, and effectively presenting findings.",
-        "⚡ Awarded 75% scholarship based on a record of consistent academic performance and exceptional scores in Qualifier exam."
+        "⚡ Awarded 75% scholarship based on a record of consistent academic performance and exceptional scores in Qualifier exam.",
       ],
       website_link: "https://onlinedegree.iitm.ac.in/",
     },
@@ -304,15 +303,15 @@ const degrees = {
         "\t\t⚡ Strong foundation in core subjects: Mathematics, Science, Social Science, Languages.",
         "\t\t⚡ Practical application of knowledge: Experiments, problem-solving, Quantatative & Logical reasoning.",
         "\t\t⚡ Holistic development: Physical Education, fitness, sportsmanship, teamwork & communications skills.",
-        "\t\t⚡ Scored perfect 10 CGPA and received \"Academic Excellence\" award from District and Session Judge - O.P. Verma.",
+        '\t\t⚡ Scored perfect 10 CGPA and received "Academic Excellence" award from District and Session Judge - O.P. Verma.',
         "\nClass 12th:",
         "\t\t⚡ In-depth study of Physics, Chemistry, Mathematics: Mechanics, electricity, thermodynamics, organic and inorganic chemistry, calculus.",
         "\t\t⚡ Practical experiments and lab work: Scientific equipment, observation recording, data analysis.",
         "\t\t⚡ Language proficiency and communication skills: English literature, grammar, writing. Critical thinking, effective communication.",
         "\t\t⚡ Attained an 8 CGPA in the Science stream during Class 12th.",
-        ],
+      ],
       website_link: "https://www.gpsknp.in/",
-    }
+    },
   ],
 };
 
@@ -354,7 +353,7 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "#E7F2F8",
     },
-    
+
     {
       title: "IBM Data Analyst",
       subtitle: "- Rav Ahuja",
@@ -368,8 +367,7 @@ const certifications = {
       title: "AI-1 : Basics of AI & ML",
       subtitle: "- (Dr.) Ignacio Becker",
       logo_path: "univ.png",
-      certificate_link:
-        "https://certificate.univ.ai/c/39733u83cAC",
+      certificate_link: "https://certificate.univ.ai/c/39733u83cAC",
       alt_name: "Univ.AI",
       color_code: "#1d2973",
     },
@@ -386,8 +384,7 @@ const certifications = {
       title: "AI-2 : Convolutional Neural Networks",
       subtitle: "- Raghu Meka",
       logo_path: "univ.png",
-      certificate_link:
-        "https://certificate.univ.ai/c/39733u87cAC",
+      certificate_link: "https://certificate.univ.ai/c/39733u87cAC",
       alt_name: "Univ.AI",
       color_code: "#1d2973",
     },
@@ -404,7 +401,8 @@ const certifications = {
       title: "Databases for Developers : Foundations",
       subtitle: "- Chris Saxon",
       logo_path: "oracle.png",
-      certificate_link: "https://drive.google.com/file/d/11EXRAnMPneYcgJ73lljjZq7ynO1IjmJY/view",
+      certificate_link:
+        "https://drive.google.com/file/d/11EXRAnMPneYcgJ73lljjZq7ynO1IjmJY/view",
       alt_name: "Coursera",
       color_code: "#443C3C",
     },
@@ -456,25 +454,53 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work & Internships",
+      title: "Work",
+      experiences: [
+        {
+          title: "GenAI/ML Engineer",
+          company: "Ascendion",
+          company_url: "https://ascendion.com/",
+          logo_path: "ascendion_logo.jpeg",
+          duration: "Jul 2024 - Present",
+          location: "Pune, Maharashtra",
+          description:
+            "Ascendion is a leading provider of AI-first software engineering services. Recently joined; detailed updates on my contributions and responsibilities will be provided soon.",
+          color: "#ee3c26",
+        },
+        {
+          title: "ML Engineer [Freelance]",
+          company: "Nasscom Foundation | Cisco ThingQbator",
+          company_url: "https://thingqbator.nasscomfoundation.org/",
+          logo_path: "thingqbator.jpeg",
+          duration: "May 2023 - Jul 2023",
+          location: "Remote (Online)",
+          description:
+            "Designed a Machine Learning-based web application for plant disease detection as a Proof of Concept at an AgTech startup backed by Cisco ThingQbator. Deployed Multi-Quant CNN models tailored for different plant varieties, achieving 95% accuracy across 21 disease categories in real-time while optimizing resource usage. Curated and processed a comprehensive training dataset of over 67,000 images of diseased and healthy leaves from 9 plant species. Created a responsive frontend interface using HTML, CSS, and JavaScript, ensuring intuitive user interaction across all devices, and integrated it with a Flask backend for model communication, deploying the application on Microsoft Azure for scalable performance and widespread accessibility.",
+          color: "#ee3c26",
+        },
+      ],
+    },
+    {
+      title: "Internships",
       experiences: [
         {
           title: "Data Analyst - Intern",
-          company: "QualDigiIn Technologies Pvt. Ltd.",
+          company: "QualDigiIn Technologies",
           company_url: "https://qualdigiin.com/",
           logo_path: "qualdigiin_logo.png",
-          duration: "Jul 2018 - Sept 2018",
+          duration: "Nov 2022 - May 2023",
           location: "Kanpur, Uttar Pradesh",
-          description: "QualDigiIn is a software solutions company. As a intern, I have following responsibilities:\n(1) Managed and optimized SQL databases for 25+ clients, ensuring efficient data storage and retrieval.\n(2) Gathered, cleaned, and organized data using MS Excel extensively, ensuring data integrity and facilitating analysis.\n(3) Utilized Tableau to create dynamic dashboards connected to SQL databases, providing live feeds and insights for multiple clients. (4) Led 5 analytical projects, extracting valuable insights and identifying patterns from primary data sources, resulting in enhanced business strategies and increased revenues for clients.\n(5) Implemented a machine learning-based recommendation engine for an e-commerce website, achieving 5% (estimate) projected sales growth and improving user experience.",
+          description:
+            "QualDigiIn is a software solutions company. As a intern, I have following responsibilities:\n(1) Managed and optimized SQL databases for 25+ clients, ensuring efficient data storage and retrieval.\n(2) Gathered, cleaned, and organized data using MS Excel extensively, ensuring data integrity and facilitating analysis.\n(3) Utilized Tableau to create dynamic dashboards connected to SQL databases, providing live feeds and insights for multiple clients. (4) Led 5 analytical projects, extracting valuable insights and identifying patterns from primary data sources, resulting in enhanced business strategies and increased revenues for clients.\n(5) Implemented a machine learning-based recommendation engine for an e-commerce website, achieving 5% (estimate) projected sales growth and improving user experience.",
           color: "#ee3c26",
         },
         {
           title: "Data Science & Analytics - Virtual Intern",
-          company: "Forage Pvt. Ltd.",
+          company: "Forage",
           company_url:
             "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
           logo_path: "forage.png",
-          duration: "Nov 2018 - Dec 2018",
+          duration: "Jul 2022 - Sept 2022",
           location: "Remote (Online)",
           description:
             "Forage.com is an esteemed and widely recognized online platform that provides a unique and immersive experience in the form of virtual internships and career exploration opportunities.\n(1) Prepared insightful report and strategic plan for 'Zilinka' at Quantium, utilizing PowerPoint for data visualizations and recommendations.\n(2) Presented findings to 'Social Buzz' at Accenture, leveraging Python, SQL, and Tableau to increase engagement by 20% and improve content conversion rates by 15%.\n(3) Analyzed natural gas prices for JP Morgan Chase & Co., applying time series analysis, pricing model development, machine learning, and quantization techniques.\n(4) Identified key churn factors for 'PowerCo' in BCG, achieving 85% accuracy and potential $10K cost savings using Random Forest model.\n(5) Analyzed supply chain data for 'Gala Groceries' in Cognizant, providing stock optimization recommendations and developing a strategic plan using sales and sensor data. Created business-friendly PowerPoint slides and a production-ready Python module for the machine learning algorithm.",
@@ -490,31 +516,42 @@ const experience = {
           company: "Academic Societies",
           company_url: "https://study.iitm.ac.in/ds/student_life.html",
           logo_path: "iitmadras.png",
-          duration: "Jul 2022 - Present",
+          duration: "Jul 2023 - Present",
           location: "Remote (Online)",
           description:
             "Actively engaged as a participant in the Apostrophe Oratory Club, Corbett House #206, and the Ramanujan Society for Research at IIT-M, contributing to group activities aimed at fostering a vibrant and inclusive community. By actively participating in these esteemed organizations, I have had the opportunity to collaborate with fellow members, exchange ideas, and collectively contribute to the growth and development of our respective fields.",
           color: "#0C9D58",
         },
         {
+          title: "Fundraising Intern",
+          company: "Muskurahat Foundation",
+          company_url: "https://csjmu.ac.in/",
+          logo_path: "muskurahat.png",
+          duration: "Nov 2022 - Jan 2023",
+          location: "Remote (Online)",
+          description:
+            "Volunteered to raise funds through crowdfunding for the education of underprivileged children living in orphanages, low-income communities, and rural villages under Project KEYtaab initiated by Muskurahat Foundation.",
+          color: "#000000",
+        },
+        {
           title: "Teacher | Mentor",
           company: "A+ Classes",
           logo_path: "a+classes.png",
-          duration: "July 2019 - PRESENT",
+          duration: "July 2019 - Jul 2024",
           location: "Kanpur, Uttar Pradesh",
           description:
             "Experienced teacher/mentor at A+ Classes, providing affordable education to primary and secondary grade students.",
           color: "#181717",
         },
         {
-          title: "Scribe",
-          company: "Volunteer for a Cause (VFC)",
-          company_url: "https://www.vfcindia.in/penpals",
-          logo_path: "vfc.png",
+          title: "Accessibility Scribe",
+          company: "C.S.J.M. University",
+          company_url: "https://csjmu.ac.in/",
+          logo_path: "csjmu.png",
           duration: "May 2022",
           location: "Kanpur, Uttar Pradesh",
           description:
-            "Served as a scribe for 4 visually impaired students in the Pen Pals Programme, providing support during their academic exams in Kanpur University (CSJMU).",
+            "Provided exam-time support to multiple Z visually impaired and physically challenged students, ensuring their smooth participation and promoting inclusivity.",
           color: "#000000",
         },
       ],
